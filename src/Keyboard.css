@@ -1,0 +1,9 @@
+.keyboard {
+    margin: auto;
+    max-width: 500pt;
+    text-align: center;
+}
+
+.key-row {
+    margin: 4pt;
+}

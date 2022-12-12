@@ -1,0 +1,29 @@
+.key {
+    display: inline-block;
+    min-width: 6%;
+    line-height: 200%;
+    border: 1pt solid black;
+    padding: 1pt 2pt;
+    margin: 0 2pt;
+    vertical-align: middle;
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 3pt;
+}
+
+.key:hover {
+    cursor: pointer;
+    background-color: azure;
+}
+
+.correct {
+    background-color: green;
+}
+
+.contains {
+    background-color: yellow;
+}
+
+.dne {
+    background-color: gray;
+}
